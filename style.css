@@ -1,0 +1,54 @@
+body {
+    background-color: #6d924e;
+}
+#profile{
+    position:fixed;
+    left:end;
+    right: 0;
+    text-align: end;
+    top: 0;
+    width: 80px;
+}
+#titles{
+    text-align: center;  
+    font-style: oblique;
+    font-size: xx-large;
+    background-color: rgb(18, 96, 120);
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: 400px;
+    margin-left: 500px;
+
+}
+#Ethiopia {
+    color:#291212ad;
+    background-color: rgb(166, 170, 159);
+    font-size : 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+ 
+#photo{
+    width: 280px; 
+    height:260px ;
+    
+}
+
+.education{
+    background-color: #8b1769;
+    font-size: 26px;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 10px ;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+}
+
+#fig {
+    text-align: center;
+}
